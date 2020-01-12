@@ -1,0 +1,7 @@
+{
+  "dropboxToken": "mGhjpsuQA5UAAAAAAAS1bS52nBq9phuTaH4R3z75CAkTHwyOLn-3cUIUf-EnstaU",
+  "slackhookURL": "https://hooks.slack.com/services/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",
+  "faceRecFolder": "/home/pi/PycharmProjects/gardenCam/",
+  "movementThreshold": 5,
+  "devMode": true
+}
